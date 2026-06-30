@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/encoding-service/encoding-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/video-service/video-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/streaming-service/streaming-service/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:6.2.8" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.2.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:6.2.8" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:sdk-core:2.42.38" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:s3:2.42.38" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.kafka:spring-kafka:3.3.8" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-core:2.42.38" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:utils:2.42.38" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.kafka:spring-kafka:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:s3:2.21.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:sdk-core:2.21.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:aws-core:2.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.5.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.5.3" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:utils:2.21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:3.6.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:regions:2.21.0" level="project" />
+    <orderEntry type="library" name="Maven: software.amazon.awssdk:auth:2.21.0" level="project" />
+  </component>
+</module>
